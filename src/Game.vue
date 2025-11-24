@@ -192,7 +192,7 @@ function copy() {
     </div>
   </Transition>
   <header>
-    <h1>LORDLE OF THE RINGS</h1>
+    <h1>LORDLE OF THE RINGS #{{ dayNumber }}</h1>
   </header>
   <div id="board">
     <div
